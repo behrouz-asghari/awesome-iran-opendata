@@ -18,3 +18,5 @@ id,title,url,category,topics,formats,description,active
 17,UN Tourism,https://www.unwto.org/tourism-data/un-tourism-tourism-dashboard,international,گردشگری,dashboard,مرکز گردشگری سازمان ملل,True
 18,"UNICEF DATA ",https://data.unicef.org/,international,کودکان و زنان,"xls, dashboard, chart",یونیسف (سازمان ملل),True
 19,UN Water,https://www.sdg6data.org/en,international,داده‌های مرتبط با آب و بهداشت اهداف توسعه پایدار SDG6,"csv, map, chart",آب سازمان ملل,True
+19,United Nation Digital Library,https://digitallibrary.un.org/,international,مرتبط با سازمان ملل و جلسات آن,"csv, pdf, map",کتابخانه دیجیتال سازمان ملل,True
+
