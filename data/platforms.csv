@@ -7,4 +7,4 @@ id,title,url,category,topics,formats,description,active
 6,Huggingface,https://huggingface.co/docs/datasets/index,platforms,*,*,اشتراک‌گذاری دیتاست‌های عمومی و شخصی مثل داده‌کاوی‌ها,True
 7,GitHub,https://github.com,platforms,*,*,اشتراک‌گذاری دیتاست‌های عمومی و شخصی مثل داده‌کاوی‌ها,True
 8,Hardvard Dataverse,https://dataverse.harvard.edu/,platforms,*,,اشتراک‌گذاری دیتاست‌های کار شده در مقالات پژوهشی,True
-9,Datahub,https://datahub.io/collections,platforms,*,csv,مجموعه ای از داده های باکیفیت در موضوعات مختلف که در مخزن گیتهاب Awesome-data منتشر می‌شود.
+9,Datahub,https://datahub.io/collections,platforms,*,csv,مجموعه ای از داده های باکیفیت در موضوعات مختلف که در مخزن گیتهاب Awesome-data منتشر می‌شود.,True
