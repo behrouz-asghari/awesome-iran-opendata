@@ -146,15 +146,15 @@
 
 | ردیف | عنوان | موضوع(ات) | فرمت انتشار | توضیحات |
 |:----:|:-----:|:---------:|:-----------:|:-------:|
-| 1 | [Google Public data](https://www.google.com/publicdata/directory) | * | csv<br/> pdf | آرشیو داده‌های عمومی |
 | 2 | [Google Trends](https://trends.google.com/trends/) | * | csv | ترندهای جست‌و‌جو در گوگل |
-| 3 | [Google Dataset Searche](https://datasetsearch.research.google.com/) | * | - | جست‌و‌جو در دیتاست‌های عمومی |
+| 3 | [Google Dataset Search](https://datasetsearch.research.google.com/) | * | - | جست‌و‌جو در دیتاست‌های عمومی |
 | 4 | [Data Commons (Google)](https://datacommons.org/place/country/IRN) | * | chart<br/> csv | تجمیع داده‌های اجتماعی اقتصادی کل جهان از مراکز رسمی بین‌المللی |
 | 5 | [Kaggle](https://www.kaggle.com/) | * | * | اشتراک‌گذاری دیتاست‌های عمومی و شخصی مثل داده‌کاوی‌ها |
 | 6 | [Huggingface](https://huggingface.co/docs/datasets/index) | * | * | اشتراک‌گذاری دیتاست‌های عمومی و شخصی مثل داده‌کاوی‌ها |
 | 7 | [GitHub](https://github.com) | * | * | اشتراک‌گذاری دیتاست‌های عمومی و شخصی مثل داده‌کاوی‌ها |
-| 8 | [Hardvard Dataverse](https://dataverse.harvard.edu/) | * |  | اشتراک‌گذاری دیتاست‌های کار شده در مقالات پژوهشی |
+| 8 | [Harvard Dataverse](https://dataverse.harvard.edu/) | * |  | اشتراک‌گذاری دیتاست‌های کار شده در مقالات پژوهشی |
 | 9 | [Datahub](https://datahub.io/collections) | * | csv | مجموعه ای از داده های باکیفیت در موضوعات مختلف که در مخزن گیتهاب Awesome-data منتشر می‌شود. |
+| 10 | [OpenSanctions](https://www.opensanctions.org/) | * | JSON<br/>csv<br/>txt | پایگاه داده متن باز تحریم ها، فهرست های نظارتی و افراد سیاسی افشا شده — که صدها منبع را گردآوری کرده و توسط تیم های تطبیق، محققان و خبرنگاران مورد اعتماد قرار می گیرد. |
 
 ## [دیتاست‌های جمع‌آوری شده عمومی](/datasets.md)
 دیتاست‌های جمع‌آوری شده (crawl/Scrape ) شده توسط تیم‌ها و افراد از وب‌سایت‌هایی که سویه‌ای عمومی دارند و می‌توانند در تحلیل‌ها استفاده شوند در صفحه‌ای جدا قرار گرفته‌اند که می‌توانید با کلیک روی عنوان به آن لیست دسترسی داشته باشید.
